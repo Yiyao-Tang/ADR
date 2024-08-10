@@ -1,5 +1,6 @@
 
-This repository contains samples codes from my intermship @ Adera Global. Some codes are removed for confidential reasons.
+This repository contains samples codes from my intermship @ Adera Global. 
+Some codes are removed for confidential reasons.
 
 ### Internship Duties
 
